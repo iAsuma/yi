@@ -1,3 +1,3 @@
-module github.com/asuma/yi
+module github.com/iasuma/yi
 
 go 1.22
